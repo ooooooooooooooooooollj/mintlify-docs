@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Helper",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Hi",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
